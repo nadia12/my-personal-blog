@@ -1,9 +1,9 @@
 // import React from "react"
 // import { Link } from "gatsby"
 
-import Layout from "../components/layout"
+// import Layout from "../components/layout"
 // import Image from "../components/image"
-import SEO from "../components/seo"
+// import SEO from "../components/seo"
 
 // const IndexPage = () => (
 //   <Layout>
@@ -28,7 +28,6 @@ import { Link } from 'gatsby'
 export default () => {
   return (
     <>
-      <SEO title="Home" />
       Hello world!
       <p><Link to="/blog">View Blog</Link></p>
     </>)
